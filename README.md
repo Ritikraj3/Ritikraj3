@@ -99,10 +99,6 @@ const ritikRaj = {
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritikraj3&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🏆 Featured Repositories
@@ -165,14 +161,14 @@ Goals_2024:
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&theme=github-compact&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritikraj3&theme=github_dark" alt="Profile Summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritikraj3/Ritikraj3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritikraj3/Ritikraj3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ritikraj3/Ritikraj3/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
