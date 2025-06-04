@@ -20,17 +20,15 @@
 
 ```javascript
 const ritikRaj = {
-    location: "🇮🇳 India",
-    role: "Frontend Developer",
-    company: "Building Amazing Web Experiences",
-    techStack: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Tailwind"],
-    architecture: ["Component-Based", "Responsive Design", "Clean Code"],
-    currentFocus: "Redux for Complex State Management",
-    goals2024: ["Performance Optimization", "Design Systems", "Open Source"],
-    workingOn: "Scalable React Applications",
-    askMeAbout: ["React", "JavaScript", "Frontend Architecture", "UI/UX"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
-};
+  🌍 location: "India",
+  💻 role: "Frontend Developer",
+  🔧 techStack: ["JavaScript", "React", "Redux", "Tailwind", "Vite"],
+  📐 principles: ["Component-based", "Responsive", "Clean Code"],
+  📈 learning: "Advanced Redux & Performance Optimization",
+  🎯 goals2024: ["Design Systems", "Open Source", "Next.js"],
+  🧠 askMeAbout: ["React", "UI/UX", "State Management"],
+  🤓 funFact: "Still debugging with console.log 🐛"
+}
 ```
 
 </div>
