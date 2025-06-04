@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=Ritik%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Enthusiast;Building+Tomorrow's+Web+Today;Always+Learning+%26+Growing+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
@@ -12,7 +12,6 @@
   <em>Building the future, one component at a time</em>
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" />
 </div>
-
 
 ---
 
@@ -41,6 +40,14 @@ const ritikRaj = {
 
 🌍 **Based in India** | 🎯 **Frontend Focused** | 🧠 **Always Learning** | 🤝 **Open to Collaborate**
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritikraj3&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,13 +82,25 @@ const ritikRaj = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0891B2?style=for-the-badge&logoColor=white)](http://ritik-raj-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/📧_Email-ritikraj5776@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikraj5776@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik5776)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ritikraj3)
+<a href="http://ritik-raj-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0891B2?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ritikraj5776@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Email-ritikraj5776@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/ritik5776" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.github.com/Ritikraj3" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/Ritikraj3?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://www.github.com/Ritikraj3)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ritikraj3&color=0891b2&style=for-the-badge&label=Profile+Views)](https://github.com/Ritikraj3)
+<a href="https://www.github.com/Ritikraj3" target="_blank">
+  <img src="https://img.shields.io/github/followers/Ritikraj3?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/Ritikraj3" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Ritikraj3&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</a>
 
 </div>
 
@@ -97,6 +116,34 @@ const ritikRaj = {
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritikraj3&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+<div align="center">
+  
+### 📈 GitHub Journey
+  
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📅_Joined-2_Years_Ago-0891b2?style=for-the-badge&logoColor=white" alt="Joined GitHub" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏗️_Public_Repos-19-0891b2?style=for-the-badge&logoColor=white" alt="Public Repos" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💻_Contributions_2025-369-0891b2?style=for-the-badge&logoColor=white" alt="Contributions 2025" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -141,6 +188,8 @@ Goals_2024:
 
 </div>
 
+
+
 ---
 
 ## 💬 Let's Collaborate
@@ -169,14 +218,37 @@ Goals_2024:
 
 ---
 
+## 🎵 Currently Listening To
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31v2lvfomgb6jxu6zzi6d2gsigmy" target="_blank">
+    <img src="https://novatorem-ritikraj3.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31v2lvfomgb6jxu6zzi6d2gsigmy" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Together-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
+  <a href="https://open.spotify.com/user/31v2lvfomgb6jxu6zzi6d2gsigmy" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_My_Playlists-Explore-1DB954?style=for-the-badge&logoColor=white" alt="My Playlists" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   
 ### 💭 Random Dev Quote
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritikraj)
+<a href="https://www.buymeacoffee.com/ritikraj" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
 
 **Thanks for visiting! Happy coding! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" />
 
 </div>
