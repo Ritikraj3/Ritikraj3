@@ -96,7 +96,7 @@ const ritikRaj = {
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ritikraj3&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Coding Activity" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritikraj3&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <div align="center">
