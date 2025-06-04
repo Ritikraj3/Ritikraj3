@@ -165,10 +165,14 @@ Goals_2024:
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritikraj3/Ritikraj3/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&theme=github-compact&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritikraj3&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
