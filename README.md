@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Ritik Raj
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=Ritik%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Enthusiast;Building+Tomorrow's+Web+Today;Always+Learning+%26+Growing+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Building+Amazing+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
