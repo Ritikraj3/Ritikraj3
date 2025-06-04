@@ -1,44 +1,173 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ritik Raj
-=================================================================================================================================
+# Hi there! 👋 I'm Ritik Raj
 
-Frontend Developer
-------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning" alt="Typing SVG" />
+</div>
 
-I work with modern frontend technologies to build responsive, accessible, and well-structured web applications. My recent focus has been on building scalable React apps with clean architecture and efficient component patterns. I’m now sharpening skills around performance optimization, code reusability, and maintainable design systems.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" />
+  <strong>Building the future, one component at a time</strong>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" />
+</div>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://ritik-raj-portfolio.netlify.app/)
-* ✉️  You can contact me at [ritikraj5776@gmail.com](mailto:ritikraj5776@gmail.com)
-* 🧠  I'm learning Redux to manage complex state more effectively in React applications.
-* 🤝  I'm open to collaborating on React-based applications, UI components, or web performance improvements.
+---
 
-<a href="https://www.github.com/Ritikraj3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ritikraj3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🚀 About Me
 
-### Skills
+```javascript
+const ritik = {
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    focus: ["React", "Performance Optimization", "Clean Architecture"],
+    currentlyLearning: "Redux for complex state management",
+    passion: "Creating responsive, accessible web experiences",
+    motto: "Code with purpose, design with empathy"
+};
+```
 
+<div align="center">
+  
+### 🌐 Portfolio & Contact
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://ritik-raj-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-ritikraj5776@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikraj5776@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Ritikraj3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Ritikraj3)
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Ritikraj3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ritik5776" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 🛠️ Tech Stack
 
-### Badges
+<div align="center">
 
-<b>My GitHub Stats</b>
+### Frontend Technologies
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="50" height="50" alt="Filebase" />
+      <br><strong>Filebase</strong>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/Ritikraj3"><img src="https://github-readme-stats.vercel.app/api?username=Ritikraj3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ritikraj3's GitHub stats" /></a>
+</div>
 
-<a href="http://www.github.com/Ritikraj3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraj3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/Ritikraj3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ritikraj3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 📊 GitHub Analytics
 
-<a href="https://github.com/Ritikraj3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritikraj3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraj3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<b>Top Repositories</b>
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/Ritikraj3/learning-React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=learning-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ritikraj3/Learning-JavaScript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=Learning-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Ritikraj3/learning-React">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=learning-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Learning React" />
+  </a>
+  <a href="https://github.com/Ritikraj3/Learning-JavaScript">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=Learning-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Learning JavaScript" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik5776)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ritikraj3)
+
+</div>
+
+---
+
+## 💡 What I'm Up To
+
+- 🔭 **Currently Working On:** Building scalable React applications with clean architecture
+- 🌱 **Learning:** Redux for complex state management and advanced React patterns
+- 👯 **Looking to Collaborate:** React-based applications, UI components, web performance improvements
+- 💬 **Ask Me About:** Frontend development, React, JavaScript, or anything tech-related
+- ⚡ **Fun Fact:** I believe in writing code that tells a story
+
+---
+
+<div align="center">
+  
+### 📈 Profile Views
+  
+![](https://komarev.com/ghpvc/?username=Ritikraj3&color=0891b2&style=flat-square&label=Profile+Views)
+
+### 🎯 Goals for 2025
+  
+```
+✅ Master Redux and Context API
+🔄 Learn Next.js and SSR concepts  
+🔄 Contribute to open source projects
+🔄 Build a full-stack application
+🔄 Write technical blog posts
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+</div>javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" />
+      <br><strong>Redux</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+  </tr>
+</table>
+
+### Styling & Tools
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" />
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="50" height="50" alt="Vite" />
+      <br><strong>Vite</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="50" height="50" alt="Babel" />
+      <br><strong>Babel</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/
