@@ -1,173 +1,184 @@
 # Hi there! 👋 I'm Ritik Raj
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Building+Amazing+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" />
-  <strong>Building the future, one component at a time</strong>
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" />
+  <em>Building the future, one component at a time</em>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" />
 </div>
+
+<br>
 
 ---
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```javascript
-const ritik = {
-    location: "India 🇮🇳",
+const ritikRaj = {
+    location: "🇮🇳 India",
     role: "Frontend Developer",
-    focus: ["React", "Performance Optimization", "Clean Architecture"],
-    currentlyLearning: "Redux for complex state management",
-    passion: "Creating responsive, accessible web experiences",
-    motto: "Code with purpose, design with empathy"
+    company: "Building Amazing Web Experiences",
+    techStack: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Tailwind"],
+    architecture: ["Component-Based", "Responsive Design", "Clean Code"],
+    currentFocus: "Redux for Complex State Management",
+    goals2024: ["Performance Optimization", "Design Systems", "Open Source"],
+    workingOn: "Scalable React Applications",
+    askMeAbout: ["React", "JavaScript", "Frontend Architecture", "UI/UX"],
+    funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
 
-<div align="center">
-  
-### 🌐 Portfolio & Contact
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://ritik-raj-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-ritikraj5776@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikraj5776@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Ritikraj3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Ritikraj3)
+<div align="center">
+
+### 🌟 Quick Facts
+
+🌍 **Based in India** | 🎯 **Frontend Focused** | 🧠 **Always Learning** | 🤝 **Open to Collaborate**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Frontend Technologies
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="50" height="50" alt="Filebase" />
-      <br><strong>Filebase</strong>
-    </td>
-  </tr>
-</table>
+### 💻 Frontend Development
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🎨 Styling & Frameworks
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### 🔧 Tools & Environment
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)](https://babeljs.io/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Connect With Me
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritikraj3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraj3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0891B2?style=for-the-badge&logoColor=white)](http://ritik-raj-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/📧_Email-ritikraj5776@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikraj5776@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik5776)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ritikraj3)
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+[![GitHub Followers](https://img.shields.io/github/followers/Ritikraj3?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://www.github.com/Ritikraj3)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ritikraj3&color=0891b2&style=for-the-badge&label=Profile+Views)](https://github.com/Ritikraj3)
+
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ritikraj3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraj3&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraj3&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ritikraj3&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Coding Activity" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikraj3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 Featured Repositories
 
 <div align="center">
   <a href="https://github.com/Ritikraj3/learning-React">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=learning-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Learning React" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=learning-React&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Learning React" />
   </a>
   <a href="https://github.com/Ritikraj3/Learning-JavaScript">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=Learning-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Learning JavaScript" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikraj3&repo=Learning-JavaScript&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Learning JavaScript" />
   </a>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus & Goals
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik5776)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ritikraj3)
+
+### 🔥 What I'm Currently Working On
+
+```yaml
+Learning:
+  - "Advanced Redux Patterns & Redux Toolkit"
+  - "React Performance Optimization Techniques"
+  - "Modern CSS Architecture & Design Systems"
+
+Building:
+  - "Scalable React Applications with Clean Architecture"
+  - "Reusable Component Libraries"
+  - "Performance-Optimized Web Applications"
+
+Goals_2024:
+  - "Master State Management (Redux, Zustand, Context API)"
+  - "Contribute to Open Source React Projects"
+  - "Build and Deploy 5+ Production Ready Apps"
+  - "Learn Next.js and Server-Side Rendering"
+  - "Write Technical Blog Posts"
+```
 
 </div>
 
 ---
 
-## 💡 What I'm Up To
+## 💬 Let's Collaborate
 
-- 🔭 **Currently Working On:** Building scalable React applications with clean architecture
-- 🌱 **Learning:** Redux for complex state management and advanced React patterns
-- 👯 **Looking to Collaborate:** React-based applications, UI components, web performance improvements
-- 💬 **Ask Me About:** Frontend development, React, JavaScript, or anything tech-related
-- ⚡ **Fun Fact:** I believe in writing code that tells a story
+<div align="center">
+
+### 🤝 I'm Open To
+
+**🚀 React-based Applications** • **🎨 UI Component Libraries** • **⚡ Web Performance Optimization** • **🔧 Code Reviews** • **📚 Knowledge Sharing**
+
+---
+
+### 💡 Ask Me About
+
+**⚛️ React & JSX** • **🔄 State Management** • **🎯 Component Architecture** • **📱 Responsive Design** • **🚀 Frontend Best Practices**
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritikraj3/Ritikraj3/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
 <div align="center">
   
-### 📈 Profile Views
-  
-![](https://komarev.com/ghpvc/?username=Ritikraj3&color=0891b2&style=flat-square&label=Profile+Views)
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-### 🎯 Goals for 2025
-  
-```
-✅ Master Redux and Context API
-🔄 Learn Next.js and SSR concepts  
-🔄 Contribute to open source projects
-🔄 Build a full-stack application
-🔄 Write technical blog posts
-```
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritikraj)
 
----
+**Thanks for visiting! Happy coding! 🚀**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-</div>javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" />
-      <br><strong>Redux</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-  </tr>
-</table>
-
-### Styling & Tools
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" />
-      <br><strong>Tailwind</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="50" height="50" alt="Vite" />
-      <br><strong>Vite</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="50" height="50" alt="Babel" />
-      <br><strong>Babel</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/
+</div>
