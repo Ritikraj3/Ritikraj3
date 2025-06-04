@@ -171,7 +171,9 @@ Goals_2024:
 
 <div align="center">
   
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💭 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritikraj)
 
