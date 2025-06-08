@@ -146,6 +146,20 @@ const ritikRaj = {
 
 ---
 
+## ⏱️ WakaTime Weekly Stats
+
+<div align="center">
+
+📊 My Coding Activity in the Last 7 Days  
+<a href="https://wakatime.com/@Ritikraj3" target="_blank">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Ritikraj3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff"
+    alt="Ritik Raj's WakaTime stats"
+  />
+</a>
+
+---
+
 ## 🏆 Featured Repositories
 
 <div align="center">
