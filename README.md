@@ -108,7 +108,8 @@ const ritikRaj = {
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ritikraj3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraj3&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ritikraj3&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
